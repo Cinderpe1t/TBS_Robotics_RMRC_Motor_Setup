@@ -1,4 +1,4 @@
-# TBS_Robotics_RMRC_Motor_Setup
+# TBS Robotics RMRC Motor Setup
 TBS Robotics RMRC 2022 Motor Setup
 ## Items to prepare
 - Laptop
