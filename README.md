@@ -1,21 +1,23 @@
 # TBS Robotics RMRC Motor Setup
 TBS Robotics RMRC 2022 Motor Setup
 ## Items to prepare
-- Laptop
+- Laptop with USB port (Mac or Windows. Linux should work but might to be familiar with Linux terminal commands)
+- USB cable
 - Servo motor (Robotics Dynamixel XL430-W270-T)
 - U2D2
 - U2D2 power hub
+- 8x AA battery pack
 ## Type of motors
 ### DC motor
 Pure electro-magnetic motor
 ### Step motor
-- Control rotation by going through step(s)
-- No encoder - can miss a step
+- Rotate by advancing one step angle at a time
+- No encoder for motor angular position. Therefore it can miss a step under heavy loading, and need re-calibrate the position
 ### Servo motor
-- Each motor has motor, gear(s), encoder, and controller (a small computer)
-- Internal control to achieve control goals
+- Each serve motor has DC motor, gear(s), encoder for angular position, and controller (a small computer)
+- It has an internal control to achieve control goals
 - Position mode vs. velocity mode
-- Communicate with controller through serialized data packets
+- Communicate with servo motor controller through serialized data packets
 ### Learn more
 https://learn.adafruit.com/adafruit-motor-selection-guide
 ## Motor control with Raspberry Pi
