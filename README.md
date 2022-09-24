@@ -34,7 +34,7 @@ https://learn.adafruit.com/adafruit-motor-selection-guide
 - Robotis Dynamixel XL430-W270-T, https://www.robotis.us/dynamixel-xl430-w250-t/
 - U2D2: USB controller to exchange data with servo motor(s), https://www.robotis.us/u2d2/ 
 - U2D2 Power Hub Board Set: motor power driver, https://www.robotis.us/u2d2-power-hub-board-set/
-- ROBOTIS has good eManual documents, drivers, CAD drawing and file, etc
+- ROBOTIS has good eManual documents, drivers, CAD drawings and files, etc
 ## Set up DYNAMIXEL Wizard
 - Manual: https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/
 - Download Wizard: http://en.robotis.com/service/downloadpage.php?ca_id=10
