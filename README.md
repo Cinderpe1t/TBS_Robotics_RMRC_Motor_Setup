@@ -12,7 +12,7 @@ TBS Robotics RMRC 2022 Motor Setup
 Pure electro-magnetic motor
 ### Step motor
 - Rotate by advancing one step angle at a time
-- No encoder for motor angular position. Therefore it can miss a step under heavy loading, and need re-calibrate the position
+- No encoder for motor angular position. Therefore, it can miss a step under heavy loading and will need to re-calibrate position
 ### Servo motor
 - Each serve motor has DC motor, gear(s), encoder for angular position, and controller (a small computer)
 - It has an internal control to achieve control goals
