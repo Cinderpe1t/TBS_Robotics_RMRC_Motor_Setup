@@ -46,7 +46,7 @@ https://learn.adafruit.com/adafruit-motor-selection-guide
 ## Servo motor test drive with DYNAMIXEL Wizard 2.0 
 - Search motor
   - Make sure the motor has the latest firmware installed first
-  - Need to scan all protocol, all speed and ID’s if motor is not easily found
+  - Need to scan all protocol, all speed and IDs if motor is not easily found
 - Upgrade firmware
 - Detect or assign ID
 - Setup communication data rate speed (baud rate, or bit rate)
@@ -58,9 +58,9 @@ https://learn.adafruit.com/adafruit-motor-selection-guide
 - Q: how can we set a motor to keep a position? What is the unit of position in angle?
 - Q: how can we set a motor to keep a constant rotation?
 - Q: how can we run a motor backward?
-- Q: how can we know motor’s actual speed?
-- Q: how can you read motor’s error message?
-- Q: how can you recover the motor from error or fail status?
+- Q: how can we know a motor’s actual speed?
+- Q: how can you read a motor’s error message?
+- Q: how can you recover a motor from the error or fail status?
 - Q: What does Torque On do for the motor?
 
 
