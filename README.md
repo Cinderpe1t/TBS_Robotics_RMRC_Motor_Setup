@@ -14,8 +14,8 @@ Pure electro-magnetic motor
 - Rotate by advancing one step angle at a time
 - No encoder for motor angular position. Therefore, it can miss a step under heavy loading and will need to re-calibrate position
 ### Servo motor
-- Each serve motor has DC motor, gear(s), encoder for angular position, and controller (a small computer)
-- It has an internal control to achieve control goals
+- Each servo motor has DC motor, gear(s), encoder for angular position, and controller (a small computer)
+- Has an internal control to achieve control goals
 - Position mode vs. velocity mode
 - Communicate with servo motor controller through serialized data packets
 ### Learn more
