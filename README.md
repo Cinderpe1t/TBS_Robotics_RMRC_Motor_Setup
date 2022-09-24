@@ -42,7 +42,7 @@ https://learn.adafruit.com/adafruit-motor-selection-guide
 - Connect power source (DC adapter or 8x 1.5V battery pack) to U2D2 power hub
 - Connect servo motor and power hub using Robot Cable X3P
 - Connect single servo motor for the first test
-- Confirm motors power on red LED light is on
+- Confirm motor is power on when red LED light is on
 ## Servo motor test drive with DYNAMIXEL Wizard 2.0 
 - Search motor
   - Make sure the motor has the latest firmware installed first
