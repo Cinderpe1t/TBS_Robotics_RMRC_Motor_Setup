@@ -64,4 +64,6 @@ https://learn.adafruit.com/adafruit-motor-selection-guide
 - Q: What does Torque On do for the motor?
 
 
+[Next: Motor control with Python](https://github.com/Cinderpe1t/TBS_Robotics_Motor_Control_with_Python) / [Top: Introduction](https://github.com/Cinderpe1t/TBS_Robotics_Introduction)
+
 
