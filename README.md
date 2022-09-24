@@ -1,7 +1,7 @@
 # TBS Robotics RMRC Motor Setup
 TBS Robotics RMRC 2022 Motor Setup
 ## Items to prepare
-- Laptop with USB port (Mac or Windows. Linux should work but might to be familiar with Linux terminal commands)
+- Laptop with USB port (Mac or Windows. Linux should work but might need to be familiar with Linux terminal commands)
 - USB cable
 - Servo motor (Robotics Dynamixel XL430-W270-T)
 - U2D2
